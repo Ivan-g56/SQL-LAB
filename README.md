@@ -1,1 +1,1 @@
-# SQL-LAB1
+# SQL-LAB
